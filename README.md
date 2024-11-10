@@ -1,4 +1,4 @@
-# KURSUS DATACAMP
+# DATACAMP-COURSE
 
 - datacamp: https://www.datacamp.com/
 - python: https://www.python.org/downloads/
